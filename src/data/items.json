@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Keyboard",
+    "price": 102.99,
+    "imageUrl": "https://www.zdnet.com/a/img/resize/1022e7aa18e1f1bb4b26135997c243bd3c27ab3b/2022/04/12/aa5b8465-ae42-46d9-8c27-dd09907b62b0/best-mechanical-keyboard-keychron-k8.jpg?width=1200&height=900&fit=crop&auto=webp"
+  },
+  {
+    "id": 2,
+    "name": "Phone",
+    "price": 600.99,
+    "imageUrl": "https://cdn.webtekno.com/media/cache/content_detail_v2/article/107991/iphone-13-protasarimiyla-ilgili-yeni-iddia-1616770468.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Macbook",
+    "price": 1200,
+    "imageUrl": "https://i0.wp.com/shiftdelete.net/wp-content/uploads/2020/11/apple-m1-islemcili-ilk-macbook-air-tanitildi-4.jpg?fit=1280%2C720&ssl=1"
+  }
+]
